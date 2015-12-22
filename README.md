@@ -1,1 +1,1 @@
-# Projecto mobile de Recepcao e Fellow Up de novos covertidos LCI-Apache
+# Projecto para mobile de Recepcao e Fellow Up de novos covertidos LCI-Apache
